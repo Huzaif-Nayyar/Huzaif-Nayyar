@@ -1,9 +1,13 @@
 Hi, I'm Huzaif Nayyar 👋
 
 🎓 BS Artificial Intelligence student at Bahria University Islamabad
+
 💻 Currently learning C++ and building my programming fundamentals
+
 🤖 Interested in Artificial Intelligence, Software Development & Technology
+
 🚀 Exploring different areas of technology and looking for opportunities to gain practical experience
+
 
 🛠️ Skills
 
