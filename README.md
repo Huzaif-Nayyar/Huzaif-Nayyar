@@ -19,12 +19,6 @@ Hi, I'm Huzaif Nayyar 👋
  Programming problem solving
  AI and technology concepts
 
-🚀 Projects
-
- Basic Calculator
- Student Grade Calculator
- Basic ATM Program
-
 🎯 Goals
 
  Strengthen my programming fundamentals
